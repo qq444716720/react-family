@@ -1,0 +1,154 @@
+.submitRouteOrder .warpper {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    color: #000;
+}
+
+.submitRouteOrder .content-top {
+    width: 100%;
+    margin-bottom: 15px;
+    background: #fff;
+}
+
+.submitRouteOrder .content-name {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.submitRouteOrder .content-price {
+    height: 35px;
+    line-height: 35px;
+    border-bottom: 1px solid #eee;
+    font-size: 16px;
+    text-align: center;
+}
+
+.submitRouteOrder i {
+    font-style: normal;
+}
+
+.submitRouteOrder .price-left {
+    color: orange;
+    font-size: 18px;
+    float: left;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.submitRouteOrder .price-right {
+    float: right;
+    display: inline-block;
+    color: #999;
+    font-size: 12px;
+    margin-right: 10px;
+}
+
+.submitRouteOrder .price-msg {
+    font-size: 12px;
+    color: orange;
+}
+
+.submitRouteOrder .out-date {
+    height: 45px;
+    line-height: 45px;
+    span {
+        margin-left: 10px;
+    }
+}
+
+.submitRouteOrder .out-date input {
+    width: 50%;
+    margin-left: 2rem;
+    border: none;
+}
+
+.submitRouteOrder .out-date i {
+    display: inline-block;
+    float: right;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.submitRouteOrder .person-num {
+    background: #fff;
+    margin-bottom: 15px;
+}
+
+.submitRouteOrder .num-item {
+    height: 45px;
+    line-height: 45px;
+    border-bottom: 1px solid #eee;
+}
+
+.submitRouteOrder .num-item span:nth-child(1) {
+    margin-left: 10px;
+    display: inline-block;
+    float: left;
+}
+
+.submitRouteOrder .adult-num {
+    width: 30%;
+    overflow: hidden;
+    float: left;
+    margin-left: 2rem;
+    margin-top: 6px;
+}
+
+.submitRouteOrder .adult-num input {
+    width: 32px;
+    height: 32px;
+    border: 1px solid #eee;
+    float: left;
+    text-align: center;
+}
+
+.submitRouteOrder .des-num {
+    width: 32px;
+    height: 32px;
+    border: 1px solid #eee;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.submitRouteOrder .add-num {
+    width: 32px;
+    height: 32px;
+    border: 1px solid #eee;
+    text-align: center;
+    font-size: 16px;
+    float: left;
+    line-height: 32px;
+}
+
+.submitRouteOrder .aduprc {
+    float: right;
+    display: inline-block;
+    font-size: 18px;
+    color: #000;
+    margin-right: 10px;
+}
+
+.submitRouteOrder .person-name {
+    width: 70%;
+    border: none;
+}
+
+.submitRouteOrder .submit-order {
+    font-size: 16px;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background: orange;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    z-index: 11;
+}
+
+.submitRouteOrder .warpper select {
+    background: #fff;
+}

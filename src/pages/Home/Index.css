@@ -1,0 +1,33 @@
+.index-page {
+    display: 'flex';
+    align-items: 'center';
+    justify-content: 'center';
+    height: 250px;
+    background-color: #fff;
+}
+
+.fix-content{
+    width:90%;
+    margin: 0 auto;
+}
+.fix-content-item{
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    border-bottom: 2px solid #e8e8e8;
+}
+.content-item-left{
+    float: left;
+}
+.content-item-img{
+    width: 32px;
+    height:32px;
+    display: inline-block;
+}
+.content-item-img img{
+    width: 100%;
+    height:100%;
+}
+.content-item-right{
+    float: right;
+}
